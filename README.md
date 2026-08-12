@@ -23,16 +23,15 @@ You can try the prototype here:
 
 [View Figma Prototype](https://guitar-skier-47299611.figma.site)
 
+
+
 ## Testing
 
-We tested the prototype using different usability testing methods, including heuristic evaluation, visual design testing, functional usability testing, and a survey.
+We evaluated the prototype using multiple usability testing methods, including heuristic evaluation, visual design testing, functional usability testing, and a survey-based test.
 
-The survey included 66 participants. The results showed that:
+The testing identified several usability issues, including unclear navigation, crowded layouts, unclear icons, missing confirmation messages, inconsistent feedback, and the lack of an Undo option.
 
-- 95.5% completed the Add Expense task.
-- 97% completed the Notifications task.
-
-Based on the feedback, we improved the navigation, layout, icons, and feedback messages.
+Based on user feedback, we improved the navigation, layout, spacing, icons, and feedback messages to make the final prototype clearer, more organized, and easier to use.
 
 ## Tools
 
