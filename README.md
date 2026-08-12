@@ -54,4 +54,21 @@ Based on the feedback, we improved the navigation, layout, icons, and feedback m
 - Maha Al-Harthi
 
 Department of Computer Science  
-Imam Abdulrahman bin Faisal University
+Imam Abdulrahman bin Faisal University 
+
+## Project Screenshots
+
+### Login Screen
+<img src="Login_Screen.jpg" width="400">
+
+### Dashboard Overview
+<img src="Dashboard_overview.jpg" width="600">
+
+### Expense Tracking
+<img src="Expense_tracking.jpg" width="600">
+
+### Budget Planning
+<img src="budget_planning.jpg" width="600">
+
+### Automatic Savings
+<img src="automatic_savings.jpg" width="600">
